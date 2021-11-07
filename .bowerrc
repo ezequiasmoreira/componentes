@@ -1,0 +1,6 @@
+{
+  "resolvers": [
+    "bower-nexus3-resolver",
+    "bower-npm-resolver"
+  ]
+}
